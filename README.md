@@ -6,7 +6,7 @@
 ### 🔧 Technologies I Have Experience With:
 
 - 📱 **Mobile Development**: [Android development, Kotlin, Jetpack Compose, React Native, Expo]  
-- 🌐 **Web Development**: [React, Next.js, Vite]  
+- 🌐 **Web Development**: [React.js, Next.js, Vite]  
 - 📜 **Programming Languages**: [Java, Python, Kotlin, JavaScript, and TypeScript]  
 - 🧮 **Data Structures & Algorithms**  
 - 📚 **Databases**: [SQL, Firebase, MongoDB]
