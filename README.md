@@ -18,6 +18,8 @@
 
 [RunTracker](https://github.com/VKasurinen/Runtracker)
 
+[NewsApp](https://github.com/VKasurinen/VKNews)
+
 [MiniYahtzee](https://github.com/VKasurinen/MiniYahtzee)
 
 [WeatherApp](https://github.com/VKasurinen/WeatherApp)
