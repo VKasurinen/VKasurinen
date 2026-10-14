@@ -15,13 +15,9 @@ Great to see you are interested in learning more about me! My name is Väinö Ka
 
 [NoteMark](https://github.com/VKasurinen/NoteMark)
 
-[GameStore](https://github.com/VKasurinen/Game-Store)
-
 [RunTracker](https://github.com/VKasurinen/Runtracker)
 
 [NewsApp](https://github.com/VKasurinen/VKNews)
-
-[WeatherApp](https://github.com/VKasurinen/WeatherApp)
 
 [CVWebsite](https://github.com/VKasurinen/vkasurinen_portfolio)
 
