@@ -10,17 +10,6 @@ Great to see you are interested in learning more about me! My name is Väinö Ka
 - **Data Structures & Algorithms**  
 - **Databases**: SQL, Firebase, MongoDB, PostgreSQL
 
-
-### Featured Projects:
-
-[NoteMark](https://github.com/VKasurinen/NoteMark)
-
-[RunTracker](https://github.com/VKasurinen/Runtracker)
-
-[NewsApp](https://github.com/VKasurinen/VKNews)
-
-[CVWebsite](https://github.com/VKasurinen/vkasurinen_portfolio)
-
 How to reach me:
 MyEmail: vaino.kasurinen@hotmail.fi
 
