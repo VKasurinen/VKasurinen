@@ -4,14 +4,11 @@ Great to see you are interested in learning more about me! My name is Väinö Ka
 
 ### Technologies I Have Experience With:
 
-- **Mobile Development**: Android development, Kotlin, Jetpack Compose, React Native, Expo
+- **Mobile Development**: Android development, Kotlin, Jetpack Compose, KMP, React Native
 - **Web Development**: React.js, Next.js,
 - **Programming Languages**: Java, Python, Kotlin, JavaScript, and TypeScript 
 - **Data Structures & Algorithms**  
 - **Databases**: SQL, Firebase, MongoDB, PostgreSQL
-
-How to reach me:
-MyEmail: vaino.kasurinen@hotmail.fi
 
 <!--
 **VKasurinen/VKasurinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
